@@ -33,19 +33,19 @@ Amostragem é o processo de seleção de um conjunto de unidades a partir de uma
 
 Na amostragem probabilística, todos os elementos da população têm uma probabilidade maior que zero de serem selecionados. Alguns métodos incluem amostra aleatória simples, amostragem estratificada, amostragem sistemática e amostragem por conglomerados.
 
-#### Amostra Aleatória Simples (AAS)
+#### **Amostra Aleatória Simples (AAS)**
 
 A amostra aleatória simples pode ser realizada com ou sem reposição. No caso de reposição, cada elemento pode ser selecionado mais de uma vez, o que significa que ele pode ser escolhido novamente para participar de sorteios subsequentes. Por exemplo, imagine sortear números aleatórios de uma urna. Se for uma Amostra Aleatória Simples (AAS) com reposição, um número sorteado pode ser devolvido à urna e participar do próximo sorteio. Sem reposição, cada elemento é selecionado uma única vez para compor a amostra.
 
-#### Amostra Estratificada
+#### **Amostra Estratificada**
 
 Neste tipo de amostragem, a população é dividida em estratos homogêneos, que são grupos de elementos com características semelhantes. Em seguida, uma amostra aleatória é selecionada em cada estrato, garantindo representatividade em todas as subpopulações.
 
-#### Amostra Sistemática
+#### **Amostra Sistemática**
 
 A amostragem sistemática envolve a seleção de elementos seguindo uma regra predefinida. Por exemplo, pode-se selecionar a cada décimo elemento de uma lista.
 
-#### Amostra por Conglomerados
+#### **Amostra por Conglomerados**
 
 Nesse tipo de amostragem aleatória, a população extensa é dividida em conglomerados menores, que não precisam ser homogêneos. Em seguida, uma amostra aleatória é selecionada desses conglomerados.
 
